@@ -17,12 +17,12 @@ To ensure a secure AI environment, duties are strictly separated:
 
 ## 3. Approved vs. Prohibited Use Cases
 
-### ✅ Approved Use Cases (Using Whitelisted Tools Only)
+### Approved Use Cases (Using Whitelisted Tools Only)
 * Brainstorming and ideation using sanitized, non-confidential prompts.
 * Drafting general communications or formatting documents that do not contain sensitive information.
 * Summarizing or analyzing internal data **only** when using Enterprise-tier, zero-retention tools approved by IT (e.g., Microsoft Copilot for M365, Google Workspace Gemini).
 
-### ❌ Prohibited Use Cases
+### X Prohibited Use Cases
 * **Shadow AI:** Using personal accounts or unapproved public AI services (e.g., consumer versions of ChatGPT, Midjourney without Stealth Mode) for company business.
 * **Data Leakage:** Inputting proprietary source code, customer lists, personally identifiable information (PII), or financial data into public-tier AI models that retain data for model training.
 * **Automated Decision Making:** Using AI to make fully automated decisions that impact individuals (e.g., HR screening) without human intervention, in violation of GDPR Article 22.
